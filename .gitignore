@@ -1,0 +1,49 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Build output
+/dist/
+/build/
+/bin/
+gotemplate-cli
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config overrides
+config.local.yaml
+.gotemplate-cli.yaml
+.gotemplate-cli.yml
+.gotemplate-cli.json
+
+# Temp files
+*.tmp
+*.bak
