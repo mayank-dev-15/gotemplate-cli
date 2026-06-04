@@ -1,5 +1,13 @@
 # GoTemplate CLI
 
+![Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-blue?style=for-the-badge)
+
+
+## 🚀 Live Demo
+
+**[View Demo](https://mayank-dev-15.github.io/gotemplate-cli-demo)** — hosted on GitHub Pages
+
+
 [![Go Version](https://img.shields.io/badge/go-1.22+-00ADD8?logo=go&logoColor=white)](https://golang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/mayank-dev-15/gotemplate-cli)
